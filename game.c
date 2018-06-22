@@ -1,12 +1,3 @@
-/**
- * NWEN 241 Programming Assignment 4
- * game.c C Source File
- *
- * Name: Kevin	
- * Student ID: 300372033
- * 
- * IMPORTANT: You are to complete Tasks 1, 3 and 4 here
- */
 
 #include "common.h"
 #include <stdio.h>
