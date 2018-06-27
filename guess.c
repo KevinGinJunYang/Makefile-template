@@ -1,7 +1,4 @@
-/**
- * NWEN 241 Programming Assignment 4
- * guess.c C Source File
- */
+
 
 #include <stdio.h>
 #include <stdlib.h>
