@@ -1,7 +1,3 @@
-/**
- * NWEN 241 Programming Assignment 4
- * common.c C Source File
- */
 
 #include <stdio.h>
 #include <ctype.h>
