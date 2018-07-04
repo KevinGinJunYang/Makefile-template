@@ -1,7 +1,4 @@
-/**
- * NWEN 241 Programming Assignment 4
- * common.h Header File
- */
+
 
 #ifndef __UTIL_H__
 #define __UTIL_H__
